@@ -1,0 +1,14 @@
+{
+  "name": "@ipunghmd3-hash/baileys",
+  "version": "1.0.0",
+  "description": "Fork Baileys by ipunghmd3-hash",
+  "main": "index.js",
+  "author": "ipunghmd3-hash",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node postinstall.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
